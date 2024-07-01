@@ -3,7 +3,7 @@
 #include <iostream>
 #include <string>
 #include <sstream>
-#using Namespace std;
+
 using std::cout;
 using std::cerr;
 using std::endl;
